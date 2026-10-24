@@ -49,9 +49,9 @@ Sirius corre en el computador del centro de operaciones y:
 
 | Indicador | Resultado medido |
 | --- | --- |
-| Pruebas automáticas | 51 pruebas, todas aprobadas |
+| Pruebas automáticas | 100 pruebas, todas aprobadas (24 de octubre de 2026, 9,2 s) |
 | Revisiones de seguridad y lógica | 2 revisiones: 0 hallazgos graves; 9 menores corregidos |
-| Estabilidad continua | 10 h y 14 h sin bloqueos; memoria estable en 113–114 MB |
+| Estabilidad continua | 10 h y 14 h sin bloqueos; memoria estable, sin fugas |
 | Tolerancia a fallas | Sobrevivió cortes de internet; sin conexión responde con el último escaneo |
 | Tiempo de respuesta por voz | De 12–15 s a cerca de 8 s |
 | Activación por doble aplauso | 4 de 4 pares detectados; 0 activaciones falsas al hablar |
@@ -60,6 +60,16 @@ Sirius corre en el computador del centro de operaciones y:
 | Telegram | Estado, texto, notas de voz y botones Aprobar e Ignorar operativos |
 
 **Alcance de la demo:** la red de nodos y enlaces es simulada (Costa, Sierra y Amazonía de Ecuador); el clima es real. Las alertas por WhatsApp y llamada telefónica están diseñadas pero simuladas, porque requieren un servicio de pago.
+
+## Evidencias
+
+![Suite automática: 100 pruebas aprobadas](media/ev_pruebas.jpg)
+
+*Ejecución de la suite automática, 24 de octubre de 2026.*
+
+![Alerta del enlace Guayaquil–Manta con propuesta de desvío por Santo Domingo](media/ev_alerta.jpg)
+
+*Sirius detecta la degradación del enlace Guayaquil–Manta, la cruza con el clima real y propone desviar el tráfico por Santo Domingo, 24 de octubre de 2026.*
 
 ## Próximos pasos
 
