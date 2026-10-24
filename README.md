@@ -77,8 +77,8 @@ Sirius corre en el computador del centro de operaciones y:
 
 | Integrante | Rol |
 | --- | --- |
-| [Nombre completo] | [Rol] |
-| [Nombre completo] | [Rol] |
+| [Daira Alcivar] | [Desarrolladora única del proyecto] |
+
 
 ---
 
